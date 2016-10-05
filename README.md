@@ -1,2 +1,2 @@
 # fanburst
-Fanburst.com
+https://fanburst.com
